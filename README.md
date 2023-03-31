@@ -27,4 +27,4 @@
 ![Luminar AI](./_badges/luminar-ai.svg)
 
 ##
-- Concerning hobbit 🎶
+- Concerning Hobbits 🎶
