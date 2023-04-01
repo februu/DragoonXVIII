@@ -2,7 +2,7 @@
 
 - I make unfunny stuff here 🙃
 - Sometimes also something usefull (XD)
-- I love C++ and Qt, but some call it being Python hater
+- I love C++ and Qt, but some ([Februu](https://github.com/februu)) call it being Python hater
 
 ### Something else about me:
 
