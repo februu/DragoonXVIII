@@ -7,6 +7,7 @@
 ### Something else about me:
 
 - Tolkien abuser 💍
+- Music abuser (I spend at least 1/5 of the year listening to music!) 🎵
 - UAVO 🛸
 
 ## During coding, I use the following:
@@ -14,17 +15,8 @@
 ![forthebadge](./_badges/c.svg)
 ![forthebadge](./_badges/c++.svg)
 ![forthebadge](./_badges/qt.svg)
+![forthebadge](./_badges/qml.svg)
 ![forthebadge](./_badges/python.svg)
-
-### In the meantime I learn:
-
-![forthebadge](./_badges/circuitpython.svg)
-![forthebadge](./_badges/arduino.svg)
-
-## When I'm bored of coding I also use:
-
-![Affinity Photo 2](./_badges/affinity-photo-2.svg) 
-![Luminar AI](./_badges/luminar-ai.svg)
 
 ##
 - Concerning Hobbits 🎶
