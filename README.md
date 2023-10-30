@@ -10,13 +10,5 @@
 - Music abuser (I spend at least 1/5 of the year listening to music!) 🎵
 - UAVO 🛸
 
-## During coding, I use the following:
-
-![forthebadge](./_badges/c.svg)
-![forthebadge](./_badges/c++.svg)
-![forthebadge](./_badges/qt.svg)
-![forthebadge](./_badges/qml.svg)
-![forthebadge](./_badges/python.svg)
-
 ##
 - Concerning Hobbits 🎶
